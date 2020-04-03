@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dce06011633caba4a800b0d9286abd5d, type: 3}
+  m_Name: PlatelegsWhite
+  m_EditorClassIdentifier: 
+  name: PlateletsWhite
+  icon: {fileID: 21300000, guid: 4a3af1405c9b95d41be710f0bd9e3131, type: 3}
+  isDefaultItem: 0
+  equipSlot: 2
+  armorModifier: 40
+  damageModifier: 0
+  mesh: {fileID: 7938692011003320596, guid: c8ffa86a9f8e2cf4ab5c5b41daeb9c17, type: 3}
+  coveredMeshRegions: 00000000
